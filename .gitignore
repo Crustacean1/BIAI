@@ -4,3 +4,5 @@ lightning_logs/
 __pycache__/
 images.tar.gz
 annotations.tar.gz
+Oxidized/
+Sneaky/
